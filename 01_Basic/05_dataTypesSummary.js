@@ -33,4 +33,7 @@ const myFunction = function(){
 }  // typeof : object function
 
 console.log(typeof x); // gives the type of x
+
+
 /* Javascript is a dynamically typed i.e, variable types are determined at runtime */
+
